@@ -17,6 +17,7 @@ namespace AndreiDS63.ProjectForGit
             Console.ReadLine();
             // изменение для подзадачи 2
             // изменение для подзадачи 3
+            // изменение для подзадачи 4
 
         }
     }
