@@ -10,6 +10,7 @@ namespace AndreiDS63.ProjectForGit
     {
         static void Main(string[] args)
         {
+            // изменение для подзадачи 1
             Console.WriteLine("Введите имя!");
             string name = Console.ReadLine();
             Console.WriteLine($"Hello, {name}");
