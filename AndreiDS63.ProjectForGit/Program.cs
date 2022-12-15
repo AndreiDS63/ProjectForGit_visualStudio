@@ -13,7 +13,10 @@ namespace AndreiDS63.ProjectForGit
             // изменение для подзадачи 1
             Console.WriteLine("Введите имя!");
             string name = Console.ReadLine();
-            Console.WriteLine($"Hello, {name}");
+            // запрос ввода фамилии
+            Console.WriteLine("Введите Вашу фамилию!");
+            string surname = Console.ReadLine();
+            Console.WriteLine($"Hello, {name} {surname}!");
             Console.ReadLine();
             // изменение для подзадачи 2
             // изменение для подзадачи 3
