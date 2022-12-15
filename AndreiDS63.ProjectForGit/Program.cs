@@ -15,6 +15,7 @@ namespace AndreiDS63.ProjectForGit
             string name = Console.ReadLine();
             Console.WriteLine($"Hello, {name}");
             Console.ReadLine();
+            // изменение для подзадачи 2
         }
     }
 }
