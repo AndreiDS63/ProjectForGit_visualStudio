@@ -8,5 +8,7 @@ namespace AndreiDS63.ProjectForGit
 {
     internal class Book
     {
+        // изменение 2 в подзадаче 7
+        
     }
 }

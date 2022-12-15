@@ -8,5 +8,7 @@ namespace AndreiDS63.ProjectForGit
 {
     internal class User
     {
+        // изменение 3 в подзадаче 7
+        
     }
 }
