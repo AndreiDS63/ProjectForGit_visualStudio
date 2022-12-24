@@ -9,5 +9,6 @@ namespace AndreiDS63.ProjectForGit
     internal class User
     {
         // subtask_1
+        // subtask_2
     }
 }
