@@ -17,7 +17,7 @@ namespace AndreiDS63.ProjectForGit
             string surname = Console.ReadLine();
             Console.WriteLine($"Hello, {name} {surname}!");
             Console.ReadLine();
-            // gjpsdfel
+            // это нужно выполнить в task 2
 
         }
     }
