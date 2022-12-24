@@ -1,1 +1,3 @@
-# AndreiDS63.ProjectForGit
+# ProjectForGit
+
+Данный репозиторий создан для тренировки в системе контроля версий Git
