@@ -18,6 +18,7 @@ namespace AndreiDS63.ProjectForGit
             Console.WriteLine($"Hello, {name} {surname}!");
             Console.ReadLine();
             // это нужно выполнить в task 2
+            // изменения для задания 4.2
 
         }
     }
